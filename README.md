@@ -1,10 +1,10 @@
-# ZEROFLEX_Project
+# ZEROFLEX_Project 🎬
 
 
 ![zeroflex](https://github.com/user-attachments/assets/4668aeb7-01cb-4d11-bd6e-d7aa6287deec)
 
 ## 프로젝트 주제
-오픈 API를 이용한 영화 추천 서비스
+오픈 API를 이용한 영화 추천 서비스🍿
 
 ## 프로젝트 기간
 2024.10.28~2024.12.05
