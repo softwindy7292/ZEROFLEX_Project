@@ -17,3 +17,23 @@
 
 
 ## 사용 기술 및 환경
+- [기술 스택](#기술-스택)
+- [설치 및 실행](#설치-및-실행)
+- [기능 소개](#기능-소개)
+- [프로젝트 구조](#프로젝트-구조)
+- [기여 방법](#기여-방법)
+- [라이선스](#라이선스)
+
+---
+
+## 🚀 기술 스택
+
+### Frontend
+- **React** ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
+- **Bootstrap** ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white)
+
+### Backend
+- **Spring Framework** ![Spring](https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=white)
+- **Spring Security** ![Spring Security](https://img.shields.io/badge/-Spring%20Security-6DB33F?logo=spring-security&logoColor=white)
+
+---
