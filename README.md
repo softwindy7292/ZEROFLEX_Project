@@ -11,7 +11,7 @@
 |   팀장   |   팀원   |   팀원   |   팀원   |   팀원   |
 | -------- | -------- | -------- | -------- | -------- |
 |  김선우  |  김윤정  |  박현춘  |  윤다영  |  하태인  |
-|![image](https://github.com/user-attachments/assets/30ea8c17-4ae7-49bd-98d3-8dadf17b677f) |![image](https://github.com/user-attachments/assets/6eae5a9c-5b39-417e-9f4d-f8869bef8fbb)
+|![image](https://github.com/user-attachments/assets/30ea8c17-4ae7-49bd-98d3-8dadf17b677f) |![image](https://github.com/user-attachments/assets/30ea8c17-4ae7-49bd-98d3-8dadf17b677f) 
  |![image](https://github.com/user-attachments/assets/30ea8c17-4ae7-49bd-98d3-8dadf17b677f) |![image](https://github.com/user-attachments/assets/30ea8c17-4ae7-49bd-98d3-8dadf17b677f) |![image](https://github.com/user-attachments/assets/30ea8c17-4ae7-49bd-98d3-8dadf17b677f)|
 
 
