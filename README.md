@@ -16,7 +16,6 @@
 | :------: | :------: | :------: | :------: | :------: |
 |  김선우  |  김윤정  |  박현춘  |  윤다영  |  하태인  |
 |![image](https://github.com/user-attachments/assets/81ebb3b5-e7c7-447e-bc3c-1d0b351d13b2)|![image](https://github.com/user-attachments/assets/3d648553-f795-4c72-92ac-45260fe623cb)|![image](https://github.com/user-attachments/assets/60c389f2-73a2-4279-a1de-08e04cfaa0b5)|![image](https://github.com/user-attachments/assets/264abb99-ab81-4985-8d77-e09a6a01c425)|![image](https://github.com/user-attachments/assets/dc51a2c0-3627-4576-8746-6000839f6867)|
-| :------: | :------: | :------: | :------: | :------: |
 |  풀스텍 개발  |  풀스텍 개발  |  풀스텍 개발  |  풀스텍 개발  |  풀스텍 개발  |
 
 
